@@ -10,10 +10,14 @@ After Installing the SDK, I began to work on setting the MHN virtual Machine and
 
 <img src="https://i.imgur.com/XbW4xyL.png"/>
 
+My problem began with attempting to access the Admin console. The Codepath guide explains that after installing the VM with admin access and the honeypot, it is possible to access the admin console through the web browser by typing the the external ip of the admin vm while adding ":80" at the end of the URL to gain access. From there, the guide explained that should be able to deploy a script that installs the "Dionaea" honeypot, which logs malware activity directed to the honeypot. However, I was not able to access the admin console, so i had to install the Dionaea script some other way; you can see this issue in the GIF provided at the bottom. 
 
+<img src="https://i.imgur.com/bXPQRkV.gif"/>
+
+I took a look at the MHN repository and found a link to a website that contains a guide to install the Dionaea honeypot (https://www.edgis-security.org/single-post/dionaea-malware-honeypot); this did not work as well. After some googling, i found that the link provided was outdated. A redditor named "lrgame1983" provided a link (https://www.reddit.com/r/Malware/comments/4arc7w/installing_dionaea/) to the Dionaea website (https://dionaea.readthedocs.io/en/latest/installation.html#ubuntu-14-04) which has another installation guide for different OS's such as Linux, Ubuntu 16.04, and Ubuntu 14.04 (the one used for our VM and honeypot). Installation was successful, however, i still did not get results. A classmate suggested that 
 
 <img src="https://i.imgur.com/T5QwVRP.png?1"/>
 
 <img src="https://i.imgur.com/RO3b0go.png?1"/>
 
-<img src="https://i.imgur.com/bXPQRkV.gif"/>
+
