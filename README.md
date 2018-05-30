@@ -6,7 +6,8 @@ I went through Codepaths installation, but used a the windows installer since th
 
 <img src="https://i.imgur.com/y5ofYr4.png"/>
 
+<img src="https://i.imgur.com/T5QwVRP.png"/>
+
 <img src="https://i.imgur.com/RO3b0go.png"/>
 
-<img src="https://i.imgur.com/T5QwVRP.png"/>
-https://i.imgur.com/bXPQRkV.gif
+<img src="https://i.imgur.com/bXPQRkV.gif"/>
