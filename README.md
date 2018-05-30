@@ -6,7 +6,12 @@ I went through Codepath's guide to install the Google Cloud Platform SDK, howeve
 
 <img src="https://i.imgur.com/y5ofYr4.png"/>
 
-After Installing the SDK, I began to work on setting the MHN virtual Machine and honeypot. This part was a fairly straight process. On Codepath, they put up commands to create the VM and its respective firewall rules. Similar commands could be found on their to generate a honeypot along with its firewall rules
+After Installing the SDK, I began to work on setting the MHN virtual Machine and honeypot. This part was a fairly straight process. On Codepath, they put up commands to create the VM and its respective firewall rules. Similar commands could be found on there to generate a honeypot along with its firewall rules
+
+<img src="https://i.imgur.com/XbW4xyL.png"/>
+
+
+
 <img src="https://i.imgur.com/T5QwVRP.png?1"/>
 
 <img src="https://i.imgur.com/RO3b0go.png?1"/>
