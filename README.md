@@ -192,7 +192,7 @@ In the end, I was not able get the environment to work.
 
 ### Challenge: Get a capture of the baseline traffic on your wireless interface. Start by closing every running app on your system: every window, every tab, every shell… try to go completely dark (restart your system first if you need to). Then open Wireshark (which should be the only app running) and start capturing on your primary interface
 
-<img src="https://i.imgur.com/I49Wv2J.gif"/>
+GIF of challenge here, could not add into README file: [https://imgur.com/I49Wv2J]
 
 * Look at the source and destination IPs; how much of the traffic is inbound vs. outbound?
 
